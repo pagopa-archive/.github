@@ -11,10 +11,10 @@
 
 # Introduction
 
-PagoPA's software repositories are organized in three differente GitHub organizations:
+PagoPA's software repositories are organized in three different GitHub organizations:
 - active projects are maintained [**@pagopa**](https://github.com/pagopa);
-- archived projects are stored [**@pagopa-archive**](https://github.com/pagopa-archive);
-- R&D projects are developed here [**@pagopa-research**](https://github.com/pagopa-research).  
+- archived projects are stored here [**@pagopa-archive**](https://github.com/pagopa-archive);
+- R&D projects are developed [**@pagopa-research**](https://github.com/pagopa-research).
 
 As such, this is a **read-only** organization, so all the repositories stored here are marked as *Public Archive*. This means that the repositories are not editable and all their features, e.g. issues, pull requests, wiki, are disabled.
 
